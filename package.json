@@ -1,0 +1,25 @@
+{
+  "name": "sequelize_example",
+  "version": "1.0.0",
+  "description": "sample of how use the ORM sequelize in a express api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivan0063/SequelizeExample.git"
+  },
+  "keywords": [
+    "sequelize",
+    "express",
+    "api",
+    "bulk"
+  ],
+  "author": "ivan0063",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivan0063/SequelizeExample/issues"
+  },
+  "homepage": "https://github.com/ivan0063/SequelizeExample#readme"
+}
