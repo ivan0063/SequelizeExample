@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/ivan0063/SequelizeExample/issues"
   },
-  "homepage": "https://github.com/ivan0063/SequelizeExample#readme"
+  "homepage": "https://github.com/ivan0063/SequelizeExample#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mariadb": "^2.5.4",
+    "sequelize": "^6.6.2"
+  }
 }
